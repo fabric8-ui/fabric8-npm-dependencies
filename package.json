@@ -8,7 +8,7 @@
     "ngx-base": "2.2.10", 
     "ngx-fabric8-wit": "6.19.5",
     "ngx-login-client": "1.1.11",
-    "ngx-widgets": "2.2.9",
+    "ngx-widgets": "2.3.0",
     "fabric8-stack-analysis-ui": "0.8.6"
   },
   "license": "MIT"
