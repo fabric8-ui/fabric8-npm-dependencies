@@ -5,7 +5,7 @@
   "dependencies": {
     "fabric8-planner": "0.41.4",
     "fabric8-npm-pipeline-test-prj": "0.0.3",
-    "ngx-base": "2.3.0", 
+    "ngx-base": "2.3.1", 
     "ngx-fabric8-wit": "6.20.0",
     "ngx-login-client": "1.2.4",
     "ngx-widgets": "2.3.3",
