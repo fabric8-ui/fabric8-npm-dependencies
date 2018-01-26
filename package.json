@@ -3,7 +3,7 @@
   "description": "A collection of Angular components and other useful things to be shared.",
   "version": "0.0.0-development",
   "dependencies": {
-    "fabric8-planner": "0.42.10",
+    "fabric8-planner": "0.42.11",
     "fabric8-npm-pipeline-test-prj": "0.0.3",
     "ngx-base": "2.3.1", 
     "ngx-fabric8-wit": "6.20.1",
