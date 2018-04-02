@@ -1,5 +1,5 @@
 #!/usr/bin/groovy
-@Library('github.com/fabric8io/fabric8-pipeline-library@master')
+@Library('github.com/fabric8io/fabric8-pipeline-library@ssh')
 def utils = new io.fabric8.Utils()
 if (utils.isCI()){
   echo 'no CI enabled'
