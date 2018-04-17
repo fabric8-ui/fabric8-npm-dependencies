@@ -10,7 +10,7 @@
     "ngx-forge": "0.0.72",
     "ngx-login-client": "1.3.8",
     "ngx-widgets": "2.3.10",
-    "fabric8-stack-analysis-ui": "0.11.2"
+    "fabric8-stack-analysis-ui": "0.11.3"
   },
   "license": "MIT"
 }
